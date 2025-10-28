@@ -1,0 +1,4 @@
+n=int(input("enter a number:"))
+s=n**2
+c=n**3
+print("the square of the number ",n,"is",s,"and cube of the number ",n,"is",c) 
