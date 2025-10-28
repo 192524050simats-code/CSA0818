@@ -1,0 +1,7 @@
+a,b=3,6
+add=a+b
+sub=a-b
+mul=a*b
+div=a/b
+floor=b//a
+print( "add",add,"\n","sub",sub,"\n","mul",mul,"\n","div",div,"\n","floor",floor,"\n")
